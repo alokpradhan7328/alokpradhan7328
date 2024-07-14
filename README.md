@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with <b>** Java and Oracle **</b>
 
-- 👨‍💻 All of my projects are available at<b>** [https://reactjs-portfolio7.netlify.app/**](https://reactjs-portfolio7.netlify.app/) **</b>
+- 👨‍💻 All of my projects are available at<b>** [https://reactjs-portfolio7.netlify.app/](https://reactjs-portfolio7.netlify.app/) **</b>
 
 - 💬 Ask me about <b>** Java,Oracle,Html,Css,JavaScript,BootStrap,ReactJS **</b>
 
