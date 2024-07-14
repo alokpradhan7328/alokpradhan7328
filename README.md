@@ -7,21 +7,21 @@
 
 
 
-- 🌱 I’m currently learning ****Spring Spring Boot MicroServices ****
+- 🌱 I’m currently learning ** Spring Spring Boot MicroServices **
 
-- 👯 I’m looking to collaborate on **** Open Source ****
+- 👯 I’m looking to collaborate on ** Open Source **
 
-- 🤝 I’m looking for help with **** Java and Oracle ****
+- 🤝 I’m looking for help with ** Java and Oracle **
 
 - 👨‍💻 All of my projects are available at [https://reactjs-portfolio7.netlify.app/**](https://reactjs-portfolio7.netlify.app/**)
 
-- 💬 Ask me about **** Java,Oracle,Html,Css,JavaScript,BootStrap,ReactJS ****
+- 💬 Ask me about ** Java,Oracle,Html,Css,JavaScript,BootStrap,ReactJS **
 
-- 📫 How to reach me **** alokpradhan7328@gmail.com ****
+- 📫 How to reach me ** alokpradhan7328@gmail.com **
 
 - 📄 Know about my experiences [https://alok-pradhan-resume.tiiny.site](https://alok-pradhan-resume.tiiny.site)
 
-- ⚡ Fun fact **** I'm not a programmer, I'm a code archaeologist. ****
+- ⚡ Fun fact ** I'm not a programmer, I'm a code archaeologist. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
